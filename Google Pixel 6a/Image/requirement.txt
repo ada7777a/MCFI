@@ -1,0 +1,8 @@
+file name : pxl_date_code.jpg   Original image
+file name : pxl_date_code_F.jpg  Forgery image
+
+Original image: 266 imgaes
+Forgery image: 266 images
+
+All photos are created and edited by Google pixel 6a 
+
