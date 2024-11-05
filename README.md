@@ -1,2 +1,2 @@
 # MCFI
-A dataset created by smart phone for image imitation  detection
+A dataset created by smart phone for image forgery  detection
